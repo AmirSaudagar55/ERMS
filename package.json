@@ -1,0 +1,15 @@
+{
+  "name": "erms",
+  "version": "1.0.0",
+  "description": "API based on Narola Case Study",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Nodejs",
+    "ERMS"
+  ],
+  "author": "Amir Saudagar, Narola",
+  "license": "ISC"
+}
